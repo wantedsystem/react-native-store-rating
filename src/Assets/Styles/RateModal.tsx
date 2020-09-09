@@ -16,7 +16,7 @@ export let RateModalStyles = StyleSheet.create({
 	} as ViewStyle,
 
 	button: {
-		backgroundColor: Color.LightGreen[600],
+		backgroundColor: '#00619A',
 		flex: 0,
 		height: 30,
 		marginHorizontal: 5,
